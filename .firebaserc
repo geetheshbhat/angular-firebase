@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-5e33d": {
+      "hosting": {
+        "angularCRUD": [
+          "angular-5e33d"
+        ]
+      }
+    }
+  }
+}
